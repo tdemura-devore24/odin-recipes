@@ -1,0 +1,1 @@
+This project is a way to practice using git and also the fundamentals of html. It will use images, headers, text, lists, and links.
